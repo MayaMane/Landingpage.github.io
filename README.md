@@ -6,5 +6,5 @@
 
 ## Tech Stack
 
-**Skils:** HTML, CSS, JavaScript
+**Skils:** HTML, CSS
 
